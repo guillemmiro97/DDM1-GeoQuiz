@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">Is Canberra the capital of Australia?</string>
+    <string name="question_australia">Is Canberra the capital of Australia?</string>
+    <string name="question_spain">Is Madrid the capital of Spain ?</string>
+    <string name="question_catalonia">Is Lleida the capital of Catalonia ?</string>
+    <string name="question_egypt">Is the Nile the longest river in the world?</string>
+    <string name="question_mexico">Mexico is south of the Equator?</string>
+    <string name="question_newZealand">New Zealand has more sheep than people?</string>
+    <string name="question_china"> China only has one time zone?</string>
+    <string name="question_morocco">Morocco was never colonized by European powers?</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!</string>
